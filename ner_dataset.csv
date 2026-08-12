@@ -1,0 +1,11 @@
+id,text,entities
+1,"John Smith ordered a MacBook Pro from Seattle on March 3rd.","PERSON: John Smith | PRODUCT: MacBook Pro | LOCATION: Seattle | DATE: March 3rd"
+2,"Please contact Sarah Johnson at TELUS Digital before Friday.","PERSON: Sarah Johnson | ORG: TELUS Digital | DATE: Friday"
+3,"The iPhone 15 was shipped to Chicago on July 12, 2026.","PRODUCT: iPhone 15 | LOCATION: Chicago | DATE: July 12, 2026"
+4,"Dr. Emily Carter will see patients at St. Mary's Clinic on Monday.","PERSON: Dr. Emily Carter | ORG: St. Mary's Clinic | DATE: Monday"
+5,"Amazon reported that the Samsung Galaxy S24 sold out in Texas.","ORG: Amazon | PRODUCT: Samsung Galaxy S24 | LOCATION: Texas"
+6,"Rachel Adams submitted her application to Encord on August 5th.","PERSON: Rachel Adams | ORG: Encord | DATE: August 5th"
+7,"The meeting with Michael Lee from Google is scheduled for Thursday.","PERSON: Michael Lee | ORG: Google | DATE: Thursday"
+8,"Netflix released a new show filmed in Toronto last December.","ORG: Netflix | LOCATION: Toronto | DATE: last December"
+9,"Laura Bennett purchased a Dell laptop from the Denver branch.","PERSON: Laura Bennett | PRODUCT: Dell laptop | LOCATION: Denver"
+10,"The conference in New York starts on September 10th, hosted by Microsoft.","LOCATION: New York | DATE: September 10th | ORG: Microsoft"
